@@ -14,7 +14,7 @@ li {
 }
 
 a {
-	transition: color 2s, font-size 2s;
+	transition: color 1s, font-size 1s;
 	transition-timing-function: ease-out;
 }
 
